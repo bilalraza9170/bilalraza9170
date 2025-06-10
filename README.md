@@ -5,8 +5,9 @@
 
 <h1 align="center">👨‍💻 Muhammad Bilal Raza - Web Developer</h1>
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=2000&pause=500&color=4169e1&center=true&width=500&lines=Web+Developer+%7C+Clean+Code+%7C+Eager+Learner;Open+to+Collaborations+%F0%9F%9A%80" alt="Typing Animation">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=2000&pause=1000&color=4169e1&center=true&width=500&lines=Web+Developer" alt="Typing Animation">
 </p>
+
 
 <p align="center">
   <a href="https://www.linkedin.com/in/m-bilalraza/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
