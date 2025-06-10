@@ -60,10 +60,6 @@
 <p align="center">
   I'm open to contributing to exciting web development projects. Whether you're building a platform, app, or web-based tool, I'm excited to work together and grow in the process.
 </p>
----
-[![](https://visitcount.itsvg.in/api?id=bilalraza9170&icon=0&color=0)](https://visitcount.itsvg.in)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 <!-- GitHub Stats Section -->
 <h2 align="center">📊 GitHub Stats</h2>
