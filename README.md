@@ -41,13 +41,13 @@
 <h2 align="center">📌 My Final Year Project (FYP)</h2>
 <h3 align="center">🎉 BibConfetti</h3>
 <p align="center">
-  A web-based solution developed as part of my Final Year Project. I'm actively working on enhancing its features and usability.
+  A web-based solution developed as part of my Final Year Project. I'm actively working on enhancing its features and usability. 
 </p>
 <p align="center">
-  <b>Technologies Used:</b> React.js, Node.js, MongoDB
+  <b>Technologies Used:</b> React.js, Node.js, MongoDB, Next.js, Python Flask.api
 </p>
 <p align="center">
-  <b>Features:</b> Interactive UI, Event Scheduling, Collaboration Tools
+  <b>Features:</b> AI-powered reviewer assignment, document chat, key insight extraction/generation, plagiarism check, and payments.
 </p>
 
 <!-- Contribution Section -->
