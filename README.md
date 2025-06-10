@@ -13,6 +13,7 @@
   <a href="https://www.linkedin.com/in/m-bilalraza/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
   <a href="mailto:bilalraza9170@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
   <a href="https://facebook.com/profile.php?id=100046168870940&mibextid=ZbWKwL"><img src="https://img.shields.io/badge/Facebook-%231877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook" /></a>
+  <a href="https://portfolio-tau-dun-64.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-222222?style=for-the-badge&logo=github&logoColor=white" alt="Portfolio" /></a>
 </p>
 
 <p align="center">
