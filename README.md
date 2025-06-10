@@ -1,10 +1,8 @@
 <!-- Profile Banner with a professional animation -->
 <p align="center">
-  <img src="https://cdn.dribbble.com/users/730703/screenshots/6581243/avento.gif" width="500" />
-</p>
-<img src="https://user-images.githubusercontent.com/74038190/213844263-a8897a51-32f4-4b3b-b5c2-e1528b89f6f3.png" width="50px" /> &nbsp; Happy to See You &nbsp; <img src="https://user-images.githubusercontent.com/74038190/213844263-a8897a51-32f4-4b3b-b5c2-e1528b89f6f3.png" width="50px" />
-
   <img src="https://user-images.githubusercontent.com/74038190/212748842-9fcbad5b-6173-4175-8a61-521f3dbb7514.gif" width="500">
+</p>
+  
 <h1 align="center">👨‍💻 Muhammad Bilal Raza - Web Developer</h1>
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=2000&pause=500&color=4169e1&center=true&width=500&lines=Clean+Code+%7C+Eager+Learner;Open+to+Collaborations+%F0%9F%9A%80" alt="Typing Animation">
