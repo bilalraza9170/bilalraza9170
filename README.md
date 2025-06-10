@@ -5,7 +5,7 @@
 
 <h1 align="center">👨‍💻 Muhammad Bilal Raza - Web Developer</h1>
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=2000&pause=500&color=4169e1&center=true&width=500&lines=Web+Developer+%7C+Final+Year+Project+BibConfetti;Clean+Code+%7C+Eager+Learner;Open+to+Collaborations+%F0%9F%9A%80" alt="Typing Animation">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=2000&pause=500&color=4169e1&center=true&width=500&lines=Web+Developer+%7C;Clean+Code+%7C+Eager+Learner;Open+to+Collaborations+%F0%9F%9A%80" alt="Typing Animation">
 </p>
 
 <p align="center">
@@ -15,7 +15,7 @@
 </p>
 
 <p align="center">
-  Assalamualaikum! I'm Muhammad Bilal Raza, a final year Software Engineering student at Bahria University Islamabad with a CGPA of 3.2/4. I'm passionate about web development and enthusiastic about collaborating on exciting and impactful projects.
+  Assalamualaikum! I'm Muhammad Bilal Raza, a Software Engineer, graduated from Bahria University Islamabad with a CGPA of 3.2/4. I'm passionate about web development and enthusiastic about collaborating on exciting and impactful projects.
 </p>
 
 <!-- Divider -->
