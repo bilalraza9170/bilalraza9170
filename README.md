@@ -1,6 +1,6 @@
 <!-- Profile Banner with a professional animation -->
 <p align="center">
-  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="500">
+  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="400">
 </p>
   
 <h1 align="center">👨‍💻 Muhammad Bilal Raza - Web Developer</h1>
@@ -17,7 +17,7 @@
 </p>
 
 <p align="center">
-  Assalamualaikum! I'm Muhammad Bilal Raza, a Software Engineer, graduated from Bahria University Islamabad with a CGPA of 3.2/4. I'm passionate about web development and enthusiastic about collaborating on exciting and impactful projects.
+  Hi! I'm Muhammad Bilal Raza, a Software Engineer, graduated from Bahria University Islamabad with a CGPA of 3.2/4. I'm passionate about web development and enthusiastic about collaborating on exciting and impactful projects.
 </p>
 
 <!-- Divider -->
@@ -73,9 +73,9 @@
 
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github.com/Jasim-BinUmar/Jasim-BinUmar/blob/output/github-contribution-grid-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://github.com/Jasim-BinUmar/Jasim-BinUmar/blob/output/github-contribution-grid-snake.svg" />
-    <img alt="Snake animation of GitHub contribution" src="https://github.com/Jasim-BinUmar/Jasim-BinUmar/blob/output/github-contribution-grid-snake.svg" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://github.com/bilalraza9170/bilalraza9170/blob/output/github-contribution-grid-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://github.com/bilalraza9170/bilalraza9170/blob/output/github-contribution-grid-snake.svg" />
+    <img alt="Snake animation of GitHub contribution" src="https://github.com/bilalraza9170/bilalraza9170/blob/output/github-contribution-grid-snake.svg" />
   </picture>
 </p>
 
