@@ -1,6 +1,6 @@
 <!-- Profile Banner with a professional animation -->
 <p align="center">
-  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="400">
+  <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExdWhraDJtdzFxYXZmamYweTZjNzY1d2hrNXRzMTI4N2FmbTFiZWRyZSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/iIqmM5tTjmpOB9mpbn/giphy.gif" width="400">
 </p>
   
 <h1 align="center">👨‍💻 Muhammad Bilal Raza - Web Developer</h1>
