@@ -17,7 +17,7 @@
 </p>
 
 <p align="center">
-  Hi! I'm Muhammad Bilal Raza, a Software Engineer, graduated from Bahria University Islamabad with a CGPA of 3.2/4. I'm passionate about web development and enthusiastic about collaborating on exciting and impactful projects.
+  Hi! I'm Muhammad Bilal Raza, a Software Engineer, graduated from Bahria University Islamabad with a CGPA of 3.2/4. I'm passionate about web and mobile development and enthusiastic about collaborating on exciting and impactful projects.
 </p>
 
 <!-- Divider -->
