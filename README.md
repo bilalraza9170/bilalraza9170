@@ -3,7 +3,7 @@
   <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExdWhraDJtdzFxYXZmamYweTZjNzY1d2hrNXRzMTI4N2FmbTFiZWRyZSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/iIqmM5tTjmpOB9mpbn/giphy.gif" width="400">
 </p>
   
-<h1 align="center">👨‍💻 Muhammad Bilal Raza - Web Developer</h1>
+<h1 align="center">👨‍💻 Muhammad Bilal Raza - Software Engineer</h1>
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=2000&pause=500&color=4169e1&center=true&width=500&lines=Clean+Code+%7C+Eager+Learner;Open+to+Collaborations+%F0%9F%9A%80" alt="Typing Animation">
 </p>
