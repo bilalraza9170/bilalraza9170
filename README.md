@@ -70,12 +70,10 @@
 
 <!-- Snake Animation for Contributions -->
 <h2 align="center">🐍 Contribution Graph</h2>
-
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/bilalraza9170/bilalraza9170/output/github-contribution-grid-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/bilalraza9170/bilalraza9170/output/github-contribution-grid-snake.svg" />
-    <img alt="Snake animation of GitHub contribution" src="https://raw.githubusercontent.com/bilalraza9170/bilalraza9170/output/github-contribution-grid-snake.svg" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=bilalraza9170&show_icons=true&theme=dark" />
+    <img src="https://github-readme-stats.vercel.app/api?username=bilalraza9170&show_icons=true" alt="GitHub Stats" />
   </picture>
 </p>
 <!-- Footer -->
