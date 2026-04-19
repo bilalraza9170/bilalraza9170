@@ -71,10 +71,7 @@
 <!-- Snake Animation for Contributions -->
 <h2 align="center">🐍 Contribution Graph</h2>
 <p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=bilalraza9170&show_icons=true&theme=dark" />
-    <img src="https://github-readme-stats.vercel.app/api?username=bilalraza9170&show_icons=true" alt="GitHub Stats" />
-  </picture>
+  <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
 </p>
 <!-- Footer -->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
